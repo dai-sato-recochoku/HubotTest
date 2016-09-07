@@ -24,9 +24,4 @@
     // Dispose of any resources that can be recreated.
 }
 
-//test
-//test2
-//test3
-//test4
-
 @end
